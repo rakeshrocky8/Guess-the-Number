@@ -27,5 +27,17 @@ button:hover{
     background-color: white;
 }
 
+@media all and (max-width: 480px){
+    h1{
+        font-size:2rem;
+    }
+    body{
+        font-size:1 rem;
+        align-content: center;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
 
+}
 
