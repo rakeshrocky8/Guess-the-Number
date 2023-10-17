@@ -1,0 +1,31 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 2rem;
+}
+h1{
+    font-size: 6rem;
+    color: brown;
+}
+input{
+    width: 200px;
+    height: 30px;
+}
+button{
+    height: 30px;
+    background-color: yellow;
+    border: none;
+    box-shadow: 3px 3px 3px 0px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: white;
+}
+
+
+
