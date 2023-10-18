@@ -27,7 +27,7 @@ button:hover{
     background-color: white;
 }
 
-@media all and (max-width: 480px){
+@media  and (max-width: 480px){
     html,body{
         height: 100%;
         width: 100%;
