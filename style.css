@@ -28,6 +28,11 @@ button:hover{
 }
 
 @media all and (max-width: 480px){
+    html,body{
+        height: 100%;
+        width: 100%;
+        overflow-x: hidden;
+    }
     h1{
         font-size:2rem;
     }
